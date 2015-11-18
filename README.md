@@ -1,1 +1,1 @@
-This is a fork of the [OpenVG tools](http://github.com/ajstarks/openvg) with the display on layer 1 and transparent background.
+This is a fork of the [OpenVG tools](http://github.com/ajstarks/openvg) with the display on layer 1 and transparent background. Additional to that it allows to set the Text Outline by setting the appropriate Fill, Stroke, and Stroke Width.
